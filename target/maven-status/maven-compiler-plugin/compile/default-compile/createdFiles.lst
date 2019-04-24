@@ -1,0 +1,12 @@
+com\sid\project\libMgmtSystem\spring\config\OracleConfig.class
+com\sid\project\libMgmtSystem\spring\repository\BooksRepositoryImpl$3.class
+com\sid\project\libMgmtSystem\spring\repository\BooksRepository.class
+com\sid\project\libMgmtSystem\spring\main\LibMgmtSystemMain.class
+com\sid\project\libMgmtSystem\beans\BooksDTO.class
+com\sid\project\libMgmtSystem\spring\service\BookService.class
+com\sid\project\libMgmtSystem\spring\config\SpringSecurityConfig.class
+com\sid\project\libMgmtSystem\spring\controller\BookController.class
+com\sid\project\libMgmtSystem\spring\repository\BooksRepositoryImpl$1.class
+com\sid\project\libMgmtSystem\spring\repository\BooksRepositoryImpl.class
+com\sid\project\libMgmtSystem\spring\service\BookServiceImpl.class
+com\sid\project\libMgmtSystem\spring\repository\BooksRepositoryImpl$2.class

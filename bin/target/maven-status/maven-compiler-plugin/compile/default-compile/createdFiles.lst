@@ -1,0 +1,3 @@
+com\sid\project\libMjmtSystem\beans\Books.class
+com\sid\project\libMjmtSystem\spring\controller\BookController.class
+com\sid\project\libMjmtSystem\spring\main\LibMjmtSystemMain.class
